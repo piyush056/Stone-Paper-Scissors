@@ -1,4 +1,4 @@
-# 🪨 Stone Paper Scissors Game
+# Stone Paper Scissors Game
 
 This is a simple **Stone-Paper-Scissors** game built using **HTML, CSS, and JavaScript**. Play against the computer in this classic hand game of strategy and luck!
 
