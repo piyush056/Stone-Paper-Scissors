@@ -9,7 +9,6 @@ This is a simple **Stone-Paper-Scissors** game built using **HTML, CSS, and Java
 - Interactive user interface
 - Random computer moves
 - Score tracking for both player and computer
-- Responsive design (mobile-friendly)
 
 ---
 
