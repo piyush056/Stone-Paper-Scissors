@@ -25,4 +25,4 @@ This is a simple **Stone-Paper-Scissors** game built using **HTML, CSS, and Java
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
